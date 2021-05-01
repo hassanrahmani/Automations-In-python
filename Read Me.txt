@@ -1,0 +1,12 @@
+Hi, So You have to install these things:
+
+install PYTHON:
+https://www.python.org/downloads/
+
+when installing make sure you tick the 'add to patch' box
+
+pip install selenium
+
+pip install puyautogui
+
+download 'chrome driver'
